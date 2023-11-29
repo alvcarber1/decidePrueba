@@ -5,9 +5,9 @@
 local host = "localhost";
 local port = "8000";
 local db = {
-    name: "decide",
-    user: "decide",
-    password: "decide",
+    name: "decidedb",
+    user: "decideuser",
+    password: "decidepass123",
 };
 
 {
