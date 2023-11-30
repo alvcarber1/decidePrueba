@@ -1,7 +1,7 @@
 from django.db import models
 
 
-class Census(models.Model):
+class Census(models.Model)conflictoprueba:
     voting_id = models.PositiveIntegerField()
     voter_id = models.PositiveIntegerField()
 
